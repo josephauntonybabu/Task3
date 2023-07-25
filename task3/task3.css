@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar {
+    background-color: rgb(178, 241, 244);
+}
+
+.carousel-inner{
+    height:600px;
+}
+
+.carousel{
+    height: 600px;
+}
+
+.section{
+    width: 100%;
+    background-color:rgb(178, 241, 244);
+}
+.content{
+    width: 100%;
+    height: 250px;
+   
+    
+}
+
+.col h1{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.col p{
+    text-align: center;
+}
+
+.section2{
+    height: 600px;
+    background-color: rgb(178, 241, 244);
+  
+}
+
+.content2{
+    
+    height: 500px;
+    background-color:rgba(228, 201, 201, 0.532);
+}
+
+.image{
+    width: 50%;
+    height: 250px;
+    margin: 0% auto;
+    background-color: blue;
+    margin-top: 60px;
+}
+
+.card-body h5{
+    text-align: center;
+}
+
+.about{
+    height: 600px;
+    background-color: rgb(178, 241, 244) ;
+  
+}
+
+.aboutus{
+    
+    height: 500px;
+    background-color:rgba(228, 201, 201, 0.532);
+}
+
+.about h1{
+    text-align: center;
+}
+
+.aboutus h2{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.aboutus p{
+    text-align: center;
+    
+    
+}
+
+.image img{
+    width: 100%;
+    height: 100%;
+}
+
+.section3{
+    height: 600px;
+    background-color: rgb(178, 241, 244) ;
+}
+
+.section3 h1{
+    text-align: center;
+}
+.testmonial{
+    height: 500px;
+    background-color:rgba(228, 201, 201, 0.532);
+}
+
+.testmonial img{
+    height: 50%;
+    width: 50%;
+    margin-left:100px;
+}
+
+.testmonial h5{
+    text-align: center;
+}
+
+.section4{
+    height: 600px;
+    background-color: rgb(178, 241, 244) ;
+}
+
+.content4{
+    
+    height: 500px;
+    background-color:rgba(228, 201, 201, 0.532);
+}
+.form{
+    margin: 0% auto;
+    width: 30%;
+    border-radius: 15px;
+    height: 450px;
+    background-color:white;
+    
+}
+.form label{
+    text-align: center;
+    color: cadetblue;
+}
+
+.button{
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+.pt-3{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: black;
+}
+.fsubmit{
+    width: 30%;
+    height: 50px;
+    margin-left: 250px;
+    
+    background: #000;
+    color: white;
+    border-radius: 20px;
+  
+}
